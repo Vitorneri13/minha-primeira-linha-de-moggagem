@@ -1,0 +1,1 @@
+[![Minha Primeira Linha de Moggagem](https://github.com/Vitorneri13/minha-primeira-linha-de-moggagem/actions/workflows/minha-primeira-linha-de-moggagem.yml/badge.svg)](https://github.com/Vitorneri13/minha-primeira-linha-de-moggagem/actions/workflows/minha-primeira-linha-de-moggagem.yml)
